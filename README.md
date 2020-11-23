@@ -1,4 +1,4 @@
-# StatisticsWithR_Duke
+# StatisticsWithRDuke
 Code repository for the coursera specialization Statistics with R by Duke University
 
 ## Resources
@@ -12,9 +12,9 @@ Code repository for the coursera specialization Statistics with R by Duke Univer
 
 ### Supplementary
 
-* [Distribution Calculator](https://gallery.shinyapps.io/dist_calc/)
+* [Distribution Calculator](https://gallery.shinyapps.io/dist_calc/): For calculating probabilities for the binomial, normal, t, T, and chi2 distributions
 * [Probability Table](https://www.openintro.org/download.php?file=os2_prob_tables&referrer=coursera.php)
-* [R Reference Card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf): For calculating probabilities for the binomial, normal, t, T, and chi2 distributions
+* [R Reference Card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 
 ### Stats and data visualization blogs: 
 
