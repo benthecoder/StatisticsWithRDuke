@@ -1,5 +1,5 @@
 # StatisticsWithRDuke
-Code repository for the coursera specialization Statistics with R by Duke University
+Code repository for the coursera specialization [Statistics with R by Duke University](https://www.coursera.org/specializations/statistics)
 
 ## Resources
 
