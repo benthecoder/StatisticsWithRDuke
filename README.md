@@ -4,11 +4,17 @@ Code repository for the coursera specialization [Statistics with R by Duke Unive
 ## Resources
 
 ### Textbooks
-* [Learn Statistics with R](https://learningstatisticswithr.com/book/)
+
+#### From the course
 * [OpenIntroStatistics, 4th ed.](https://drive.google.com/file/d/1311ju4B5zK6vi-t7a3vwU_1qZeA_Dpjs/view?usp=sharing)
+* [An Introduction to Bayesian Statistics](https://statswithr.github.io/book/)
+
+#### Others
+* [Learn Statistics with R](https://learningstatisticswithr.com/book/)
 * [Practical Statistics with for Data Scientists](https://drive.google.com/file/d/1Hw-0B3K-UbRC2GvnoG9KBGa3gL1u1SBs/view?usp=sharing)
 * [All of Statistics](https://drive.google.com/file/d/1EKe9Ohn467DWuDPtYdlVOL1ELRr5Mx3f/view?usp=sharing)
 * [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+
 
 ### Supplementary
 
